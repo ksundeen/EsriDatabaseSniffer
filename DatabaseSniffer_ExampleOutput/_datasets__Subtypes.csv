@@ -1,0 +1,415 @@
+Feature Dataset,Feature Class,Feature Type,Shape Type,Feature Count,Subtype Code,Subtype Field (if assigned),Field Name,Default Value,Domain Name
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,1,SubtypeCD,CREATIONUSER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,1,SubtypeCD,DATECREATED,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,1,SubtypeCD,DATEMODIFIED,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,1,SubtypeCD,ENABLED,1,EnabledDomain
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,1,SubtypeCD,GLOBALID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,1,SubtypeCD,INSTALLATIONDATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,1,SubtypeCD,LASTUSER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,1,SubtypeCD,LEGACYID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,1,SubtypeCD,MANUFACTUREDATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,1,SubtypeCD,MANUFACTUREMODEL,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,1,SubtypeCD,MAOPDESIGN,None,_Maximum_Pressure_PSIG
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,1,SubtypeCD,MAOPRECORD,None,_Maximum_Pressure_PSIG
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,1,SubtypeCD,MAOPTEST,None,_Maximum_Pressure_PSIG
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,1,SubtypeCD,MATERIAL,Steel,_Fittin_Material_Steel
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,1,SubtypeCD,NORMALPOSITION,1,Valve Position
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,1,SubtypeCD,OBJECTID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,1,SubtypeCD,STATUS,Active,Pipe Facility Status
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,1,SubtypeCD,SUBTYPECD,1,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,1,SubtypeCD,SYSTEMTYPE,MAIN,_System_Type
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,ASSETUNITCODE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,BARCODE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,CONTAINMENTGLOBALID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,CONTINM,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,CONTINROUTEID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,CONTINROUTENAME,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,CREATED_DATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,CREATED_USER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,CREATIONUSER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,DATECREATED,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,DATEMODIFIED,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,ENABLED,1,EnabledDomain
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,ENGM,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,ENGROUTEID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,ENGROUTENAME,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,EVENTID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,FROMDATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,GASTRACEWEIGHT,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,GLOBALID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,INSERVICEDATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,INSTALLATIONDATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,LAST_EDITED_DATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,LAST_EDITED_USER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,LASTUSER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,LEGACYID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,LOCATIONERROR,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,MANUFACTUREDATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,MANUFACTURELOTNO,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,MANUFACTUREMODEL,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,MANUFACTURER,None,_Fittin_Manufacturer
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,MAOPDESIGN,None,_Maximum_Pressure_PSIG
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,MAOPRECORD,None,_Maximum_Pressure_PSIG
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,MAOPTEST,None,_Maximum_Pressure_PSIG
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,MATERIAL,Steel,_Fittin_Material_Steel
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,NOMINALDIAMETER,None,_Fittin_ThreeWayTee_Size
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,NORMALPOSITION,1,Valve Position
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,OBJECTID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,OWNER,Company Owned,_Owner
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,PROJECTNUMBER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,REFLOCATION,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,REFMETHOD,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,REFOFFSET,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,Shape,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,SPATIALACCURACY,None,Spatial Accuracy
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,STATUS,Active,Pipe Facility Status
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,SUBTYPECD,2,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,SYSTEMTYPE,MAIN,_System_Type
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,TODATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,2,SubtypeCD,WORKORDERID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,ASSETUNITCODE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,BARCODE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,CONTAINMENTGLOBALID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,CONTINM,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,CONTINROUTEID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,CONTINROUTENAME,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,CREATED_DATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,CREATED_USER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,CREATIONUSER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,DATECREATED,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,DATEMODIFIED,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,ENABLED,1,EnabledDomain
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,ENGM,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,ENGROUTEID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,ENGROUTENAME,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,EVENTID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,FROMDATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,GASTRACEWEIGHT,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,GLOBALID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,INSERVICEDATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,INSTALLATIONDATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,LAST_EDITED_DATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,LAST_EDITED_USER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,LASTUSER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,LEGACYID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,LOCATIONERROR,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,MANUFACTUREDATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,MANUFACTURELOTNO,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,MANUFACTUREMODEL,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,MANUFACTURER,None,_Fittin_Manufacturer
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,MAOPDESIGN,None,_Maximum_Pressure_PSIG
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,MAOPRECORD,None,_Maximum_Pressure_PSIG
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,MAOPTEST,None,_Maximum_Pressure_PSIG
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,MATERIAL,Steel,_Fittin_Material_Steel
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,NOMINALDIAMETER,None,_Fittin_SplitTee_Size
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,NORMALPOSITION,1,Valve Position
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,OBJECTID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,OWNER,Company Owned,_Owner
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,PROJECTNUMBER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,REFLOCATION,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,REFMETHOD,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,REFOFFSET,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,Shape,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,SPATIALACCURACY,None,Spatial Accuracy
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,STATUS,Active,Pipe Facility Status
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,SUBTYPECD,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,SYSTEMTYPE,MAIN,_System_Type
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,TODATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,3,SubtypeCD,WORKORDERID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,ASSETUNITCODE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,BARCODE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,CONTAINMENTGLOBALID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,CONTINM,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,CONTINROUTEID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,CONTINROUTENAME,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,CREATED_DATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,CREATED_USER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,CREATIONUSER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,DATECREATED,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,DATEMODIFIED,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,ENABLED,1,EnabledDomain
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,ENGM,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,ENGROUTEID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,ENGROUTENAME,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,EVENTID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,FROMDATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,GASTRACEWEIGHT,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,GLOBALID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,INSERVICEDATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,INSTALLATIONDATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,LAST_EDITED_DATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,LAST_EDITED_USER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,LASTUSER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,LEGACYID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,LOCATIONERROR,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,MANUFACTUREDATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,MANUFACTURELOTNO,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,MANUFACTUREMODEL,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,MANUFACTURER,None,_Fittin_Manufacturer
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,MAOPDESIGN,None,_Maximum_Pressure_PSIG
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,MAOPRECORD,None,_Maximum_Pressure_PSIG
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,MAOPTEST,None,_Maximum_Pressure_PSIG
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,MATERIAL,Plastic,Pipe Fitting Material
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,NOMINALDIAMETER,None,_Fittin_TappingTee_Size
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,NORMALPOSITION,1,Valve Position
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,OBJECTID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,OWNER,Company Owned,_Owner
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,PROJECTNUMBER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,REFLOCATION,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,REFMETHOD,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,REFOFFSET,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,Shape,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,SPATIALACCURACY,None,Spatial Accuracy
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,STATUS,Active,Pipe Facility Status
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,SUBTYPECD,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,SYSTEMTYPE,SERVICE,_System_Type
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,TODATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,4,SubtypeCD,WORKORDERID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,ASSETUNITCODE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,BARCODE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,CONTAINMENTGLOBALID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,CONTINM,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,CONTINROUTEID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,CONTINROUTENAME,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,CREATED_DATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,CREATED_USER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,CREATIONUSER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,DATECREATED,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,DATEMODIFIED,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,ENABLED,1,EnabledDomain
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,ENGM,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,ENGROUTEID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,ENGROUTENAME,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,EVENTID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,FROMDATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,GASTRACEWEIGHT,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,GLOBALID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,INSERVICEDATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,INSTALLATIONDATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,LAST_EDITED_DATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,LAST_EDITED_USER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,LASTUSER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,LEGACYID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,LOCATIONERROR,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,MANUFACTUREDATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,MANUFACTURELOTNO,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,MANUFACTUREMODEL,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,MANUFACTURER,None,_Fittin_Manufacturer
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,MAOPDESIGN,None,_Maximum_Pressure_PSIG
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,MAOPRECORD,None,_Maximum_Pressure_PSIG
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,MAOPTEST,None,_Maximum_Pressure_PSIG
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,MATERIAL,Steel,_Fittin_Material_Steel
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,NOMINALDIAMETER,None,_Fittin_SphericalTee_Size
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,NORMALPOSITION,1,Valve Position
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,OBJECTID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,OWNER,Company Owned,_Owner
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,PROJECTNUMBER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,REFLOCATION,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,REFMETHOD,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,REFOFFSET,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,Shape,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,SPATIALACCURACY,None,Spatial Accuracy
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,STATUS,Active,Pipe Facility Status
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,SUBTYPECD,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,SYSTEMTYPE,MAIN,_System_Type
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,TODATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,5,SubtypeCD,WORKORDERID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,ASSETUNITCODE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,BARCODE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,CONTAINMENTGLOBALID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,CONTINM,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,CONTINROUTEID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,CONTINROUTENAME,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,CREATED_DATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,CREATED_USER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,CREATIONUSER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,DATECREATED,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,DATEMODIFIED,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,ENABLED,1,EnabledDomain
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,ENGM,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,ENGROUTEID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,ENGROUTENAME,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,EVENTID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,FROMDATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,GASTRACEWEIGHT,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,GLOBALID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,INSERVICEDATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,INSTALLATIONDATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,LAST_EDITED_DATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,LAST_EDITED_USER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,LASTUSER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,LEGACYID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,LOCATIONERROR,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,MANUFACTUREDATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,MANUFACTURELOTNO,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,MANUFACTUREMODEL,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,MANUFACTURER,None,_Fittin_Manufacturer
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,MAOPDESIGN,None,_Maximum_Pressure_PSIG
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,MAOPRECORD,None,_Maximum_Pressure_PSIG
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,MAOPTEST,None,_Maximum_Pressure_PSIG
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,MATERIAL,None,Pipe Fitting Material
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,NOMINALDIAMETER,None,_Fittin_ControlTee_Size
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,NORMALPOSITION,1,Valve Position
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,OBJECTID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,OWNER,Company Owned,_Owner
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,PROJECTNUMBER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,REFLOCATION,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,REFMETHOD,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,REFOFFSET,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,Shape,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,SPATIALACCURACY,None,Spatial Accuracy
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,STATUS,Active,Pipe Facility Status
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,SUBTYPECD,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,SYSTEMTYPE,MAIN,_System_Type
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,TODATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,6,SubtypeCD,WORKORDERID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,ASSETUNITCODE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,BARCODE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,CONTAINMENTGLOBALID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,CONTINM,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,CONTINROUTEID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,CONTINROUTENAME,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,CREATED_DATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,CREATED_USER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,CREATIONUSER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,DATECREATED,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,DATEMODIFIED,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,ENABLED,1,EnabledDomain
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,ENGM,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,ENGROUTEID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,ENGROUTENAME,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,EVENTID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,FROMDATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,GASTRACEWEIGHT,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,GLOBALID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,INSERVICEDATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,INSTALLATIONDATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,LAST_EDITED_DATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,LAST_EDITED_USER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,LASTUSER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,LEGACYID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,LOCATIONERROR,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,MANUFACTUREDATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,MANUFACTURELOTNO,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,MANUFACTUREMODEL,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,MANUFACTURER,None,_Fittin_Manufacturer
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,MAOPDESIGN,None,_Maximum_Pressure_PSIG
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,MAOPRECORD,None,_Maximum_Pressure_PSIG
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,MAOPTEST,None,_Maximum_Pressure_PSIG
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,MATERIAL,Steel,_Fittin_Material_Steel
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,NOMINALDIAMETER,None,Pipe Fitting Diameter
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,NORMALPOSITION,1,Valve Position
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,OBJECTID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,OWNER,Company Owned,_Owner
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,PROJECTNUMBER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,REFLOCATION,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,REFMETHOD,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,REFOFFSET,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,Shape,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,SPATIALACCURACY,None,Spatial Accuracy
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,STATUS,Active,Pipe Facility Status
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,SUBTYPECD,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,SYSTEMTYPE,MAIN,_System_Type
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,TODATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,7,SubtypeCD,WORKORDERID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,ASSETUNITCODE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,BARCODE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,CONTAINMENTGLOBALID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,CONTINM,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,CONTINROUTEID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,CONTINROUTENAME,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,CREATED_DATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,CREATED_USER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,CREATIONUSER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,DATECREATED,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,DATEMODIFIED,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,ENABLED,1,EnabledDomain
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,ENGM,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,ENGROUTEID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,ENGROUTENAME,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,EVENTID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,FROMDATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,GASTRACEWEIGHT,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,GLOBALID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,INSERVICEDATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,INSTALLATIONDATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,LAST_EDITED_DATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,LAST_EDITED_USER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,LASTUSER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,LEGACYID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,LOCATIONERROR,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,MANUFACTUREDATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,MANUFACTURELOTNO,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,MANUFACTUREMODEL,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,MANUFACTURER,None,_Fittin_Manufacturer
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,MAOPDESIGN,None,_Maximum_Pressure_PSIG
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,MAOPRECORD,None,_Maximum_Pressure_PSIG
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,MAOPTEST,None,_Maximum_Pressure_PSIG
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,MATERIAL,Steel,_Fittin_Material_Steel
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,NOMINALDIAMETER,None,_Fittin_RoundOpen_Size
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,NORMALPOSITION,1,Valve Position
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,OBJECTID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,OWNER,Company Owned,_Owner
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,PROJECTNUMBER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,REFLOCATION,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,REFMETHOD,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,REFOFFSET,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,Shape,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,SPATIALACCURACY,None,Spatial Accuracy
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,STATUS,Active,Pipe Facility Status
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,SUBTYPECD,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,SYSTEMTYPE,MAIN,_System_Type
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,TODATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,8,SubtypeCD,WORKORDERID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,ASSETUNITCODE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,BARCODE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,CONTAINMENTGLOBALID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,CONTINM,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,CONTINROUTEID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,CONTINROUTENAME,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,CREATED_DATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,CREATED_USER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,CREATIONUSER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,DATECREATED,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,DATEMODIFIED,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,ENABLED,1,EnabledDomain
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,ENGM,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,ENGROUTEID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,ENGROUTENAME,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,EVENTID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,FROMDATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,GASTRACEWEIGHT,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,GLOBALID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,INSERVICEDATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,INSTALLATIONDATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,LAST_EDITED_DATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,LAST_EDITED_USER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,LASTUSER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,LEGACYID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,LOCATIONERROR,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,MANUFACTUREDATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,MANUFACTURELOTNO,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,MANUFACTUREMODEL,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,MANUFACTURER,None,_Fittin_Manufacturer
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,MAOPDESIGN,None,_Maximum_Pressure_PSIG
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,MAOPRECORD,None,_Maximum_Pressure_PSIG
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,MAOPTEST,None,_Maximum_Pressure_PSIG
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,MATERIAL,Plastic,Pipe Fitting Material
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,NOMINALDIAMETER,None,Pipe Fitting Diameter
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,NORMALPOSITION,1,Valve Position
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,OBJECTID,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,OWNER,None,_Owner
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,PROJECTNUMBER,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,REFLOCATION,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,REFMETHOD,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,REFOFFSET,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,Shape,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,SPATIALACCURACY,None,Spatial Accuracy
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,STATUS,Proposed,Pipe Facility Status
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,SUBTYPECD,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,SYSTEMTYPE,None,_System_Type
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,TODATE,None,NO FIELD DOMAIN
+P_PipeSystem,P_ControllableFitting,Simple,Point,28733,9,SubtypeCD,WORKORDERID,None,NO FIELD DOMAIN
+,,,,,,,,,
+,,,,,,,,,
+Data exported 01/17/2022 08:23:23,,,,,,,,,

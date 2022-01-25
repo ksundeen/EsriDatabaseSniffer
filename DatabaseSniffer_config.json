@@ -1,0 +1,175 @@
+{
+    "changeDate": "01-19-2022",
+    "version": "2.0.1",
+    "globals": {
+        "outDir": "C:\\repos\\outputDatabaseSniffer_UPDMAssetPackage",
+        "overWriteOption": "YES",
+        "csvLoggingFilepath": "C:\\repos\\outputDatabaseSniffer_UPDMAssetPackage\\logs\\DatabaseSniffer_log.csv",
+        "mergeCsvsToExcel": "NO",
+        "skipSystemFieldTypes":[
+            "Blob", 
+            "OID",
+            "Geometry", 
+            "GlobalID",
+            "GUID",
+            "Date"
+        ],
+        "domainSchemaConfig": {
+            "run": "NO"
+        },
+        "featureCountConfig": {
+            "run": "NO",
+            "featureCountHeaders": {
+                "featureDataset": "Feature Dataset",
+                "featureClass": "Feature Class",
+                "featureType": "Feature Type",
+                "shapeType": "Shape Type",                  
+                "featureCount": "Feature Count"
+            }
+        },
+        "fieldCountConfig": {
+            "run": "YES",
+            "fieldCountHeaders": {
+                "featureDataset": "Feature Dataset",
+                "featureClass": "Feature Class",
+                "featureType": "Feature Type",
+                "shapeType": "Shape Type", 
+                "featureCount": "Feature Count",               
+                "fieldName": "Field Name",
+                "fieldAlias": "Field Alias",
+                "fieldType": "Field Type",
+                "fieldLength": "Field Lenth",
+                "fieldPrecision": "Field Precision",
+                "fieldCounts": "Field Value Counts",
+                "nullPercent": "Null Percent", 
+                "fieldDomain": "Field Domain",
+                "domainType": "Domain Type",
+                "domainValues": "Domain Values"
+            },
+            "excludeFieldCountFields": [
+                "ENABLED",
+                "ROUTE",
+                "GPS",
+                "CREATOR",
+                "CREATE",
+                "EDITOR",
+                "EDIT",
+                "DATE",
+                "LAT",
+                "LONG",
+                "ID",
+                "USER",
+                "NODE"
+            ],
+            "includeFieldCountFields": ["SUBTYPE"],
+            "includeFieldCountFields-NOT-USING": [
+                "SYSTEM",
+                "SUBTYPE",
+                "AssetGroup",
+                "AssetType",
+                "SUBTYPE",
+                "TYPE",
+                "CLASS",
+                "INDICATOR"
+            ],
+            "fieldCountLimit": 20
+        },
+        "subtypeConfig": {
+            "run": "NO",
+            "subtypeHeaders":{
+                "featureDataset": "Feature Dataset",
+                "featureClass": "Feature Class",
+                "featureType": "Feature Type",
+                "shapeType": "Shape Type",
+                "featureCount": "Feature Count",               
+                "subtypeCode": "Subtype Code",
+                "subtypeDesc": "Subtype Description",
+                "subtypeName": "Subtype Field (if assigned)",
+                "fieldName": "Field Name",
+                "defaultValues": "Default Value",
+                "domain": "Domain Name"
+            }
+        },
+        "subtypeCountConfig": {
+            "run": "NO",
+            "subtypeCountHeaders":{
+                "featureDataset": "Feature Dataset",
+                "featureClass": "Feature Class",
+                "featureType": "Feature Type",
+                "shapeType": "Shape Type",
+                "featureCount": "Feature Count",
+                "fieldName": "Field Name",
+                "subtypeCount": "Frequency Count"
+            }, 
+            "subtypeCountCategoryLimit":40,
+            "excludeSubtypeCountFields": [
+                "ENABLED",
+                "OBJECTID",
+                "GLOBALID",
+                "GUID",
+                "DATE",
+                "SHAPE",
+                "SUBTYPE"
+            ],
+            "includeSubtypeCountFields":[
+                "SYSTEM",
+                "SUBTYPE",
+                "TYPE",
+                "CLASS",
+                "INDICATOR"
+            ],
+            "subtypeShowMarginCount": "YES"
+        }
+    },
+    "sourceDbDict": [
+        {
+            "sourceDir": "C:\\repos\\UPDM_AssetPackage.gdb",
+            "dataSetsToCheck": ["UtilityNetwork"],
+            "keyword": "_UtilityNetwork_UPDMAssetPackage_FileGdb",
+            "skipFcList": [],
+            "fcList": [
+                "PipelineAssembly",
+                "PipelineLine",
+                "PipelineJunction",
+                "PipelineDevice",
+                "StructureBoundary",
+                "StructureLine",
+                "StructureJunction"
+            ],
+            "excludeSubtypeCountFields": "GLOBAL",
+            "excludeFieldCountFields": "GLOBAL",
+            "includeFieldCountFields": [],
+            "includeSubtypeCountFields": "GLOBAL"
+        }
+    ],
+    "other-SourceDbDict": [
+        {
+            "sourceDir": "C:\\repos\\MySample_sourcedata.sde",
+            "dataSetsToCheck": ["P_PipeSystem"],
+            "keyword": "_P_PipeSystem_SDE",
+            "fcList": [
+                "MyDatabase.MySchema.Welds"
+            ],
+            "skipFcList": ["MyDatabase.MySchema.APR"],
+            "excludeSubtypeCountFields": "GLOBAL",
+            "excludeFieldCountFields": "GLOBAL",
+            "includeFieldCountFields": "GLOBAL",
+            "includeSubtypeCountFields": "GLOBAL"
+        },
+        {
+            "sourceDir": "C:\\repos\\MySample_FileGDB.gdb",
+            "dataSetsToCheck": ["P_PipeSystem"],
+            "keyword": "_P_PipeSystem_FileGdb",
+            "fcList": [
+                "P_CONTROLLABLEFITTING",
+                "P_NonControllableFitting",
+                "P_VALVE"
+            ],
+            "skipFcList": ["APR"],
+            "excludeSubtypeCountFields": "GLOBAL",
+            "excludeFieldCountFields": "GLOBAL",
+            "includeFieldCountFields": "GLOBAL",
+            "includeSubtypeCountFields": "GLOBAL"
+        }
+    ]
+}
