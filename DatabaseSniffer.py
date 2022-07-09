@@ -33,6 +33,7 @@ class DatabaseSnifferDb:
         fieldCountConfig = globals["fieldCountConfig"]
         subtypeConfig = globals["subtypeConfig"]
         subtypeCountConfig = globals["subtypeCountConfig"]
+        attributeRulesConfig = globals["attributeRulesConfig"]
         
         # Config global params
         self.outDir = globals["outDir"]
@@ -50,6 +51,9 @@ class DatabaseSnifferDb:
         # Config Field Count file params
         self.domainSchemaRun = domainSchemaConfig["run"].upper()           
         
+        # Config for attribute rules
+        self.attributeRulesRun = attributeRulesConfig["run"].upper()
+
         # Config Field Count file params
         self.fieldCountRun = fieldCountConfig["run"].upper()    
         self.fieldCountHeaders = fieldCountConfig["fieldCountHeaders"]
@@ -464,7 +468,7 @@ class DatabaseSnifferDb:
         allData = '{0},{1}\n'.format(formattedHeaderVals, crosstabFrmt)   
         allData = allData.replace('|,,', '|,')
         return allData
-                
+
     def _writeSubtypeCounts(self, fc, subtypes, datasetValues): 
         try: 
             # Write subtypes only if configured
@@ -578,6 +582,17 @@ class DatabaseSnifferDb:
                     
                     if self.subtypeCountRun == "YES":
                         self._writeSubtypeCounts(fc, subtypes, datasetValues)
+                
+                if self.attributeRulesRun == "YES":
+                    # Create attribute rules folder
+                    attributeRulesDir = os.path.join(self.outDir, "attributeRulesExport")
+                    inTable = os.path.join(self.sourceDir, fc)
+                    if os.path.isdir(attributeRulesDir) is False:
+                        os.makedirs(attributeRulesDir)
+                        
+                    outFilepath = os.path.join(attributeRulesDir, fc + ".csv")
+                    arcpy.ExportAttributeRules_management(inTable, outFilepath)
+                    
         except Exception as ex:
             arcpy.AddMessage("Exception Thrown in _writeData: {0}\n\t".format(ex))
             self.logger.error("Exception Thrown in _writeData: {0}\n\t".format(ex))
@@ -589,9 +604,15 @@ class DatabaseSnifferDb:
                 featuresToCheck = arcpy.ListFeatureClasses()
                 print('\nChecking standalone tables\n')
             
-            elif self.dataSetsToCheck[datasetIndex] is not None:
+            elif self.dataSetsToCheck[datasetIndex] is not None and self.dataSetsToCheck[datasetIndex] != 'ALL':
                 featuresToCheck = arcpy.ListFeatureClasses(feature_dataset=self.dataSetsToCheck[datasetIndex])
                 print('\nStarting Dataset\n:', self.dataSetsToCheck[datasetIndex])
+
+            # Run if no feature datasets in db
+            else:
+                featuresToCheck = arcpy.ListFeatureClasses()
+                print('\nNo datasets found\n:')
+
 
             # Iterate through listed feature classes in dataset list, count # features, describe properties, & write properties in output file
             for fc in featuresToCheck:
@@ -805,7 +826,7 @@ class DatabaseSnifferDb:
     
     def _mergeCsvToExcel(self):
         try:            
-            with pd.ExcelWriter(self.outExcelFilepath, mode="w", if_sheet_exists="replace", engine="openpyxl") as excelWriter:
+            with pd.ExcelWriter(self.outExcelFilepath, mode="a", if_sheet_exists="replace", engine="openpyxl") as excelWriter:
                 try:
                     if self.featureCountCsvFilepath and os.path.isfile(self.featureCountCsvFilepath):
                         featureCountDf = pd.read_csv(self.featureCountCsvFilepath, sep=",", skip_blank_lines=True, warn_bad_lines=True)   
@@ -876,7 +897,7 @@ class DatabaseSnifferDb:
             # Convert csv to excel file
             if self.fieldCountRun == "YES":
                 fieldCountExcelFilepath = os.path.splitext(self.fieldCountCsvFilepath)[0] + '.xlsx'
-                with pd.ExcelWriter(fieldCountExcelFilepath, mode="w", if_sheet_exists="replace", engine="openpyxl") as fieldCountExcelWriter:
+                with pd.ExcelWriter(fieldCountExcelFilepath, mode="w", engine="openpyxl") as fieldCountExcelWriter:
                     fieldCountExcelDf = pd.read_csv(self.fieldCountCsvFilepath, sep=",", skip_blank_lines=True, warn_bad_lines=True) #header=None, prefix='Col', 
                     fieldCountExcelDf.to_excel(fieldCountExcelWriter, sheet_name="FieldCounts")
                     
@@ -890,7 +911,7 @@ class DatabaseSnifferDb:
         try:
             if self.subtypeRun == "YES":                
                 subtypeExcelFilepath = os.path.splitext(self.subtypeCsvFilepath)[0] + '.xlsx'
-                with pd.ExcelWriter(subtypeExcelFilepath, mode="w", if_sheet_exists="replace", engine="openpyxl") as subtypeExcelWriter:                    
+                with pd.ExcelWriter(subtypeExcelFilepath, mode="a", if_sheet_exists="replace", engine="openpyxl") as subtypeExcelWriter:                    
                     subtypeDf = pd.read_csv(self.subtypeCsvFilepath, sep=",", skip_blank_lines=True, warn_bad_lines=True) 
                     subtypeDf.to_excel(subtypeExcelWriter, sheet_name="Subtypes")  
 

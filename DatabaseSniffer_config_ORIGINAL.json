@@ -1,10 +1,10 @@
 {
-    "changeDate": "07-202-2022",
+    "changeDate": "01-19-2022",
     "version": "2.0.1",
     "globals": {
-        "outDir": "C:\\repos\\EsriDatabaseSniffer\\output",
+        "outDir": "C:\\repos\\outputDatabaseSniffer_UPDMAssetPackage",
         "overWriteOption": "YES",
-        "csvLoggingFilepath": "C:\\repos\\EsriDatabaseSniffer\\output\\logs\\DatabaseSniffer_log.csv",
+        "csvLoggingFilepath": "C:\\repos\\outputDatabaseSniffer_UPDMAssetPackage\\logs\\DatabaseSniffer_log.csv",
         "mergeCsvsToExcel": "NO",
         "skipSystemFieldTypes":[
             "Blob", 
@@ -15,10 +15,10 @@
             "Date"
         ],
         "domainSchemaConfig": {
-            "run": "YES"
+            "run": "NO"
         },
         "featureCountConfig": {
-            "run": "YES",
+            "run": "NO",
             "featureCountHeaders": {
                 "featureDataset": "Feature Dataset",
                 "featureClass": "Feature Class",
@@ -119,18 +119,23 @@
                 "INDICATOR"
             ],
             "subtypeShowMarginCount": "YES"
-        },
-        "attributeRulesConfig": {
-            "run": "YES"
         }
     },
     "sourceDbDict": [
         {
-            "sourceDir": "C:\\Users\\kimberly.sundeen\\Documents\\ArcGIS\\Projects\\NewEsriModel\\LSAModelTemplate.gdb",
-            "dataSetsToCheck": ["STANDALONE"],
-            "keyword": "_LSAModelTemplate_FileGdb",
+            "sourceDir": "C:\\repos\\UPDM_AssetPackage.gdb",
+            "dataSetsToCheck": ["UtilityNetwork"],
+            "keyword": "_UtilityNetwork_UPDMAssetPackage_FileGdb",
             "skipFcList": [],
-            "fcList": [],
+            "fcList": [
+                "PipelineAssembly",
+                "PipelineLine",
+                "PipelineJunction",
+                "PipelineDevice",
+                "StructureBoundary",
+                "StructureLine",
+                "StructureJunction"
+            ],
             "excludeSubtypeCountFields": "GLOBAL",
             "excludeFieldCountFields": "GLOBAL",
             "includeFieldCountFields": [],

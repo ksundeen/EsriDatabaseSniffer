@@ -9,6 +9,10 @@ __pycache__/
 # other files
 settings.json
 
+# Ignore folders
+attributeRulesExport/
+output/*
+
 # Distribution / packaging
 .Python
 build/
